@@ -1,10 +1,14 @@
+<div align="center">
+
 # 🎓 CGPA Calculator
 
-> **CodeAlpha Internship Task** — A beautiful console-based Cumulative Grade Point Average (CGPA) Calculator built in C++
+**CodeAlpha Internship Task** — A beautiful console-based Cumulative Grade Point Average (CGPA) Calculator built in C++
 
 [![Language](https://img.shields.io/badge/Language-C++-blue?logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![CodeAlpha](https://img.shields.io/badge/Internship-CodeAlpha-orange)](https://www.codealpha.tech/)
+
+</div>
 
 ---
 
