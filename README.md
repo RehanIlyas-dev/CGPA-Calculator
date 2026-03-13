@@ -2,11 +2,10 @@
 
 # 🎓 CGPA Calculator
 
-**CodeAlpha Internship Task** — A beautiful console-based Cumulative Grade Point Average (CGPA) Calculator built in C++
+ — A beautiful console-based Cumulative Grade Point Average (CGPA) Calculator built in C++
 
 [![Language](https://img.shields.io/badge/Language-C++-blue?logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![CodeAlpha](https://img.shields.io/badge/Internship-CodeAlpha-orange)](https://www.codealpha.tech/)
 
 </div>
 
@@ -205,15 +204,6 @@ This project is developed as part of the **CodeAlpha C++ Programming Internship*
 
 **Rehan Ilyas**
 
-- GitHub: [@RehanIlyas-dev](https://github.com/RehanIlyas-dev)
-
----
-
-## 🏢 Acknowledgements
-
-This project was developed as a task during the **[CodeAlpha](https://www.codealpha.tech/)** C++ Programming Internship (March 2026). Special thanks to the CodeAlpha team for providing the opportunity to build practical, real-world projects.
-
----
 
 ## 📄 License
 
