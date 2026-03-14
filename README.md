@@ -13,7 +13,7 @@
 
 ## 📋 About
 
-This project is developed as part of the **CodeAlpha C++ Programming Internship**. It is a clean, colorful, and user-friendly console application that helps students calculate their **semester GPA** and **cumulative CGPA** across multiple semesters.
+It is a clean, colorful, and user-friendly console application that helps students calculate their **semester GPA** and **cumulative CGPA** across multiple semesters.
 
 ---
 
