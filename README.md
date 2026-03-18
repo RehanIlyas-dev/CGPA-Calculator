@@ -74,19 +74,7 @@ It is a clean, colorful, and user-friendly console application that helps studen
 |---------|------------|
 | **Quality Points** | Grade Points × Credit Hours |
 | **Semester GPA** | Total Quality Points ÷ Total Credit Hours |
-| **CGPA** | Grand Total Quality Points ÷ Grand Total Credit Hours |
-
----
-
-## 🏅 Academic Standing
-
-| CGPA Range | Standing |
-|:---:|---|
-| ≥ 3.70 | 🌟 Dean's List (Outstanding!) |
-| ≥ 3.50 | ⭐ Honor Roll (Excellent!) |
-| ≥ 3.00 | ✅ Good Standing |
-| ≥ 2.00 | 📝 Satisfactory |
-| < 2.00 | ⚠️ Academic Probation |
+| **CGPA** | Grand Total Quality Points ÷ Grand Total Credit Hours 
 
 ---
 
