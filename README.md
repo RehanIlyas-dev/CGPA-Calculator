@@ -76,15 +76,6 @@ It is a clean, colorful, and user-friendly console application that helps studen
 | **Semester GPA** | Total Quality Points ÷ Total Credit Hours |
 | **CGPA** | Grand Total Quality Points ÷ Grand Total Credit Hours |
 
-**Example:**
-| Course | Grade | Cr. Hr | Grade Pts | Quality Pts |
-|--------|:-----:|:------:|:---------:|:-----------:|
-| Data Structures | A | 3 | 4.0 | 12.0 |
-| Calculus II | B+ | 3 | 3.3 | 9.9 |
-| **Total** | | **6** | | **21.9** |
-
-> **GPA = 21.9 / 6 = 3.65**
-
 ---
 
 ## 🏅 Academic Standing
